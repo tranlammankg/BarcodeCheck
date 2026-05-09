@@ -1,0 +1,9 @@
+opencv_contrib_python
+opencv_contrib_python
+opencv_python
+opencv_python
+Pillow
+Pillow
+Pillow
+pyserial
+pyzbar
